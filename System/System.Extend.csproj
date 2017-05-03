@@ -55,6 +55,7 @@
     <Compile Include="Linq\QueryExtenstion.cs" />
     <Compile Include="Linq\StringArrayExtenstion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Text\RegularExpressions\StringExtension.cs" />
     <Compile Include="Security\MD5Encrypt.cs" />
     <Compile Include="Text\CaseConvert.cs" />
     <Compile Include="Text\StringExtend.cs" />
