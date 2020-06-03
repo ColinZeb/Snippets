@@ -1,9 +1,0 @@
-alias aulg="apt update&&apt list --upgradeable&&apt upgrade"
-alias aul="apt update&&apt list --upgradeable"
-alias y="yum --enablerepo=elrepo-kernel update"
-#alias setproxy="export http_proxy='http://192.168.53.254:1080'"
-alias fp="~/repos/nerd-fonts/font-patcher-py3"
-alias fp2="~/repos/nerd-fonts/font-patcher"
-alias le=letsencrypt
-alias uprepo="find .  -name .git  -type d -exec   git --git-dir={}/ --work-tree=$PWD/{}/../ pull \;"
-alias speedtest="speedtest --share"
